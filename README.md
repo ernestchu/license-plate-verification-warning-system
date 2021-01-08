@@ -6,6 +6,7 @@ Assembly Language and Microcomputer, Fall 2020
 Group 18 term project
 ## Requirements 
 Opencv
+
 Tested under Jetson nano
 
 ## Build from source
