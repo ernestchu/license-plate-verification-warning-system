@@ -1,0 +1,3 @@
+/home/nsysu/scooter_lpr_system/build/CMakeFiles/rebuild_cache.dir
+/home/nsysu/scooter_lpr_system/build/CMakeFiles/main.dir
+/home/nsysu/scooter_lpr_system/build/CMakeFiles/edit_cache.dir
